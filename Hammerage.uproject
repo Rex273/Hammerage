@@ -15,7 +15,11 @@
 			]
 		},
 		{
+<<<<<<< HEAD
 			"Name": "StaticMeshEditorModeling",
+=======
+			"Name": "ModelingToolsEditorMode",
+>>>>>>> 319b9b1c7f259cc10e4a30649a705beb5ea4dfb4
 			"Enabled": true
 		}
 	],
